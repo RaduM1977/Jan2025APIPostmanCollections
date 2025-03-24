@@ -1,0 +1,17 @@
+[
+{
+    "name": "User1 Testing",
+    "gender": "male",
+    "status": "inactive"
+},
+{
+    "name": "User2 Testing",
+    "gender": "female",
+    "status": "active"
+},
+{
+    "name": "User3 Testing",
+    "gender": "male",
+    "status": "active"
+}
+]
